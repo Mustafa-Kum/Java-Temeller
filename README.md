@@ -1,4 +1,4 @@
-# Java-Temeller
+# Java-Temeller-Hepsi
 
 package com.mustafakum.javatemel;
 
