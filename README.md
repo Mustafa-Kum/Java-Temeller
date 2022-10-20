@@ -131,35 +131,51 @@ public class Variables {
         System.out.println((myHashMap.get("age")));
         
         int x = 5;
+        
         System.out.println(x);
+        
         x = x + 1;
+        
         System.out.println(x);
+        
         x++; // x'e +1 ekle.
+        
         System.out.println(x);
+       
         x--; // x'den 1 çıkar.
+        
         System.out.println(x);
+        
         x = x * 5;
+        
         System.out.println(x);
 
         int y = 4;
 
         System.out.println(x > y);
+        
         System.out.println(y > x);
 
         y = 30;
 
         System.out.println(x > y);
+        
         System.out.println(x >= y); // x büyük eşit y
+        
         System.out.println(x == y); // x eşit y
+        
         System.out.println(x != y); // x eşit değil y
 
         // And = && -- Or = ||
 
         x = 3;
+        
         y = 4;
+        
         int z = 5;
 
         System.out.println(x < y && y < z); // x küçük y ve y küçük z | ikisi de doğru olması gerekiyor.
+        
         System.out.println(x < y || y > z); // x küçük y ya da y küçük z | ikisi de doğru olması gerekmiyor.
 
         // if Statements
