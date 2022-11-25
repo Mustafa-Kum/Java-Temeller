@@ -6,9 +6,9 @@ public class Variables {
 
     public static void main(String[] args){
 
-        //Variables
+        ## Variables
 
-        // Integer - Long -- Integer 32 bit Long 64 bit
+        # Integer - Long -- Integer 32 bit Long 64 bit
 
         int age = 20;
 
@@ -22,7 +22,7 @@ public class Variables {
 
         System.out.println(y/x);
 
-        // Float - Double -- Float 32 bit Double 64 bit -- Float sonuna f alır.
+        # Float - Double -- Float 32 bit Double 64 bit -- Float sonuna f alır.
 
         double z = 5.0;
         
@@ -32,7 +32,7 @@ public class Variables {
 
         System.out.println(a / z);
 
-        // String
+        # String
 
         String name = "Mustafa";
         
@@ -48,7 +48,7 @@ public class Variables {
         
         System.out.println(fullname);
 
-        // Boolean -- True False
+        # Boolean -- True False
 
         boolean isAlive = true;
         
@@ -56,7 +56,7 @@ public class Variables {
         
         System.out.println(isAlive);
 
-        // Final -- Asla değişmeyen final değişken.
+        # Final -- Asla değişmeyen final değişken.
 
         final int myInteger = 5;
 
@@ -90,7 +90,7 @@ public class Variables {
 
         System.out.println(myNumberArray[2]);
 
-        //Lists
+        ## Lists
 
         ArrayList<String> myList = new ArrayList<String>();
 
@@ -108,7 +108,7 @@ public class Variables {
         
         System.out.println((myList.size())); // Kaç elemanlı olduğunu gösterir.
 
-        // Sets -- Liste içinde tek bir tane aynısından olabilir.
+        ## Sets -- Liste içinde tek bir tane aynısından olabilir.
 
         HashSet<String> mySet = new HashSet<>();
 
@@ -118,7 +118,7 @@ public class Variables {
 
         System.out.println(mySet.size());
 
-        // HashMap -- Key Value
+        ## HashMap -- Key Value
 
         HashMap<String, String> myHashMap = new HashMap<String, String>();
 
@@ -166,7 +166,7 @@ public class Variables {
         
         System.out.println(x != y); // x eşit değil y
 
-        // And = && -- Or = ||
+        # And = && -- Or = ||
 
         x = 3;
         
@@ -178,7 +178,7 @@ public class Variables {
         
         System.out.println(x < y || y > z); // x küçük y ya da y küçük z | ikisi de doğru olması gerekmiyor.
 
-        // if Statements
+        ## if Statements
 
         if (x < y) {
 
@@ -194,7 +194,7 @@ public class Variables {
 
         }
 
-        // Switch
+        ## Switch
 
         int day = 1;
 
@@ -224,7 +224,7 @@ public class Variables {
 
         System.out.println(dayString);
         
-         // For loop
+         ## For loop
 
         int[] myNumbers = {1,2,3};
 
@@ -244,7 +244,7 @@ public class Variables {
 
         }
 
-        // While Loop
+        ## While Loop
 
         int j = 0;
 
