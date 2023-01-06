@@ -1,5 +1,7 @@
 # Java-Temeller-Hepsi
 
+```javascript
+
 package com.mustafakum.javatemel;
 
 public class Variables {
@@ -259,3 +261,5 @@ public class Variables {
     }
 
 }
+
+```
